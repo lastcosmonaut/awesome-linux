@@ -4,3 +4,4 @@
 * [Vocal](https://vocalproject.net/) podcast app
 * [darktable](https://www.darktable.org/) photo editing app
 * [lightworks](https://www.lwks.com/) professional video editor
+* [ledger cli](https://www.ledger-cli.org/) powerful, double-entry accounting system on cli
