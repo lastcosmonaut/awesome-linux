@@ -6,3 +6,4 @@
 * [lightworks](https://www.lwks.com/) professional video editor
 * [ledger cli](https://www.ledger-cli.org/) powerful, double-entry accounting system on cli
 * [gnome pomodoro](http://gnomepomodoro.org/) pomodoro timer, also useful for pair programming
+* [inkscape](https://inkscape.org) not just vector graphics, also home plotter file format supported
