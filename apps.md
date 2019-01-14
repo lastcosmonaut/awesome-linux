@@ -9,3 +9,4 @@
 * [inkscape](https://inkscape.org) not just vector graphics, also home plotter file format supported
 * [krita](https://krita.org) professionell painting app
 * [keepassxc](https://keepassxc.org/) password manager
+* [syncthing](https://syncthing.net/) decentralized bi-directional file sync
