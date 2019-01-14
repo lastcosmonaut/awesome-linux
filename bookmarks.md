@@ -1,23 +1,23 @@
-http://lxer.com/
-https://opensource.com/
-https://fedoramagazine.org/
-http://news.softpedia.com/cat/Linux/
-https://fossbytes.com/
-http://www.linuxjournal.com/
-https://lwn.net/
-https://www.linux.com/
-https://www.heise.de/developer/
-http://linuxgizmos.com/
-https://www.omgubuntu.co.uk/
-https://changelog.com/
-http://www.linuxandubuntu.com/#
-https://www.phoronix.com/scan.php?page=home
-http://planet.gnome.org/
-https://www.pro-linux.de/nachrichten/
-https://linuxnews.de/
-https://www.linuxinsider.com/
-https://www.ubuntupit.com/
-http://www.eweek.com/
-http://fedoraplanet.org/
-https://destinationlinux.org/
-https://planet.kde.org/
+* http://lxer.com/
+* https://opensource.com/
+* https://fedoramagazine.org/
+* http://news.softpedia.com/cat/Linux/
+* https://fossbytes.com/
+* http://www.linuxjournal.com/
+* https://lwn.net/
+* https://www.linux.com/
+* https://www.heise.de/developer/
+* http://linuxgizmos.com/
+* https://www.omgubuntu.co.uk/
+* https://changelog.com/
+* http://www.linuxandubuntu.com/#
+* https://www.phoronix.com/scan.php?page=home
+* http://planet.gnome.org/
+* https://www.pro-linux.de/nachrichten/
+* https://linuxnews.de/
+* https://www.linuxinsider.com/
+* https://www.ubuntupit.com/
+* http://www.eweek.com/
+* http://fedoraplanet.org/
+* https://destinationlinux.org/
+* https://planet.kde.org/
