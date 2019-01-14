@@ -10,3 +10,4 @@
 * [krita](https://krita.org) professionell painting app
 * [keepassxc](https://keepassxc.org/) password manager
 * [syncthing](https://syncthing.net/) decentralized bi-directional file sync
+* [midnight commander](https://midnight-commander.org/) file browser
