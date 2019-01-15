@@ -13,3 +13,4 @@
 * [midnight commander](https://midnight-commander.org/) file browser
 * [ranger](https://github.com/ranger/ranger) vim inspired file manager
 * [web-archives](https://github.com/birros/web-archives) offline wikipedia (etc) reader
+* [ohmyzsh](https://ohmyz.sh/) add ons to zsh
